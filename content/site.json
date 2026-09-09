@@ -1,6 +1,6 @@
 {
   "theme": {
-    "bg": "#F3EDE4",
+    "bg": "#6cf5d9",
     "bgDeep": "#211E1B",
     "text": "#211E1B",
     "textSoft": "#8A8074",
@@ -26,16 +26,51 @@
     "photo": "images/about-photo.png"
   },
   "services": [
-    { "name": "Brand Identity", "desc": "브랜드의 철학을 로고, 컬러, 타이포그래피 시스템으로 정립합니다." },
-    { "name": "Editorial Design", "desc": "브로슈어, 매거진, 룩북 등 인쇄물을 위한 편집 디자인을 진행합니다." },
-    { "name": "Packaging", "desc": "제품이 놓이는 순간까지 고려한 패키지 디자인을 제안합니다." },
-    { "name": "Space Concept", "desc": "공간의 무드와 동선을 시각적으로 기획하고 스타일링합니다." },
-    { "name": "Web & Digital", "desc": "브랜드 경험을 온라인으로 확장하는 웹사이트와 디지털 애셋을 제작합니다." }
+    {
+      "name": "Brand Identity",
+      "desc": "브랜드의 철학을 로고, 컬러, 타이포그래피 시스템으로 정립합니다."
+    },
+    {
+      "name": "Editorial Design",
+      "desc": "브로슈어, 매거진, 룩북 등 인쇄물을 위한 편집 디자인을 진행합니다."
+    },
+    {
+      "name": "Packaging",
+      "desc": "제품이 놓이는 순간까지 고려한 패키지 디자인을 제안합니다."
+    },
+    {
+      "name": "Space Concept",
+      "desc": "공간의 무드와 동선을 시각적으로 기획하고 스타일링합니다."
+    },
+    {
+      "name": "Web & Digital",
+      "desc": "브랜드 경험을 온라인으로 확장하는 웹사이트와 디지털 애셋을 제작합니다."
+    }
   ],
   "portfolio": [
-    { "title": "ARCHIVE", "category": "Brand Identity", "image": "images/hero-bg.png", "link": "" },
-    { "title": "SOFT LIGHT", "category": "Space Concept", "image": "images/about-photo.png", "link": "" },
-    { "title": "TERRA", "category": "Packaging", "image": "", "link": "" }
+    {
+      "title": "ARCHIVE",
+      "category": "Brand Identity",
+      "image": "images/hero-bg.png",
+      "link": ""
+    },
+    {
+      "title": "SOFT LIGHT",
+      "category": "Space Concept",
+      "image": "images/about-photo.png",
+      "link": ""
+    },
+    {
+      "title": "TERRA",
+      "category": "Packaging",
+      "image": "images/uploads/스크린샷-2026-02-24-221159.png",
+      "link": ""
+    },
+    {
+      "title": "test1",
+      "category": "test2",
+      "image": "images/uploads/스크린샷-2026-02-24-221231.png"
+    }
   ],
   "contact": {
     "email": "hello@muare-design.com"
