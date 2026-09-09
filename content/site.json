@@ -1,0 +1,43 @@
+{
+  "theme": {
+    "bg": "#F3EDE4",
+    "bgDeep": "#211E1B",
+    "text": "#211E1B",
+    "textSoft": "#8A8074",
+    "wood": "#B08D5B",
+    "terracotta": "#A8785A",
+    "line": "#DED3C1"
+  },
+  "font": {
+    "heading": "Cormorant",
+    "body": "Pretendard Variable",
+    "scale": "1"
+  },
+  "hero": {
+    "eyebrow": "Muare Design Studio",
+    "title": "Aesthetic,\nwith a reason.",
+    "sub": "아름다움에는 이유가 있다 — 브랜드와 공간의 본질을 시각적으로 해석합니다.",
+    "image": "images/hero-bg.png"
+  },
+  "about": {
+    "title": "왜 아름다워야 하는가",
+    "paragraph1": "뮤아르 디자인 스튜디오는 예쁜 것을 만드는 일과, 아름다운 것을 만드는 일이 다르다고 믿습니다. 좋은 디자인은 취향의 나열이 아니라 브랜드가 가진 본질을 읽어내는 일에서 시작됩니다.",
+    "paragraph2": "트렌드를 따르되 거기에 머무르지 않고, 클라이언트의 이야기를 시각 언어로 정제하는 것을 가장 중요한 원칙으로 삼습니다. 아름다움과 기능 사이의 균형을 찾는 과정이 곧 저희의 작업입니다.",
+    "photo": "images/about-photo.png"
+  },
+  "services": [
+    { "name": "Brand Identity", "desc": "브랜드의 철학을 로고, 컬러, 타이포그래피 시스템으로 정립합니다." },
+    { "name": "Editorial Design", "desc": "브로슈어, 매거진, 룩북 등 인쇄물을 위한 편집 디자인을 진행합니다." },
+    { "name": "Packaging", "desc": "제품이 놓이는 순간까지 고려한 패키지 디자인을 제안합니다." },
+    { "name": "Space Concept", "desc": "공간의 무드와 동선을 시각적으로 기획하고 스타일링합니다." },
+    { "name": "Web & Digital", "desc": "브랜드 경험을 온라인으로 확장하는 웹사이트와 디지털 애셋을 제작합니다." }
+  ],
+  "portfolio": [
+    { "title": "ARCHIVE", "category": "Brand Identity", "image": "images/hero-bg.png", "link": "" },
+    { "title": "SOFT LIGHT", "category": "Space Concept", "image": "images/about-photo.png", "link": "" },
+    { "title": "TERRA", "category": "Packaging", "image": "", "link": "" }
+  ],
+  "contact": {
+    "email": "hello@muare-design.com"
+  }
+}
